@@ -13,8 +13,19 @@ li{
 }
 
 .nav-pills{
-    text-align: left;
-    display: inline;
+    text-decoration: none;
+    list-style-type: none;
+    display: inline-flex;
+    padding: 1em;
+}
+
+ul li{
+    padding: 1em;
+}
+
+.btn{
+    background-color: lightgrey;
+    color: white;
 }
 
 .intro{
