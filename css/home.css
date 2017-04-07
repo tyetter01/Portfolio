@@ -1,0 +1,22 @@
+html, body{
+    text-align: center;
+    text-decoration: none;
+}
+
+body a{
+    text-decoration: none;
+}
+
+li{
+    list-style-type: none;
+    display: inline;
+}
+
+.nav-pills{
+    text-align: left;
+    display: inline;
+}
+
+.intro{
+    text-align: left;
+}
