@@ -4,12 +4,14 @@ html, body{
 }
 
 .header{
+
     background-image: url("../img/head-photo.jpg");
     background-size:cover;
     background-position: center;
     height: 25em;
     color: white;
     padding-top: 5em;
+
 }
 
 body a{
