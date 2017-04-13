@@ -10,7 +10,7 @@ html, body{
     background-position: center;
     height: 25em;
     color: white;
-    padding-top: 5em;
+    padding-top: 8em;
 
 }
 
@@ -37,6 +37,10 @@ ul li{
 .btn{
     background-color: lightgrey;
     color: white;
+}
+
+.right-column{
+    border: solid;
 }
 
 .intro{
