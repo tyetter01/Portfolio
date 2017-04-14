@@ -5,12 +5,12 @@ html, body{
 
 .header{
 
-    background-image: url("../img/head-photo.jpg");
+    background-image: url("../img/home-header.jpg");
     background-size:cover;
     background-position: center;
     height: 25em;
     color: white;
-    padding-top: 5em;
+    padding-top: 8em;
 
 }
 
@@ -39,6 +39,18 @@ ul li{
     color: white;
 }
 
-.intro{
+.left-column{
     text-align: left;
 }
+
+.right-column{
+    border: solid;
+    
+}
+
+.thumbnail{
+    height: 5em;
+    width: auto;
+}
+
+
