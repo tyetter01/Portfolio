@@ -5,7 +5,7 @@ html, body{
 
 .header{
 
-    background-image: url("../img/head-photo.jpg");
+    background-image: url("../img/home-header.jpg");
     background-size:cover;
     background-position: center;
     height: 25em;
@@ -45,8 +45,12 @@ ul li{
 
 .right-column{
     border: solid;
+    
 }
 
-.intro{
-    text-align: left;
+.thumbnail{
+    height: 5em;
+    width: auto;
 }
+
+
