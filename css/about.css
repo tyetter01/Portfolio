@@ -1,0 +1,65 @@
+html, body{
+    background-color: lightgrey !important;
+    text-align: center;
+    text-decoration: none;
+    background-size: contain;
+}
+
+body{
+    background-color: lightgrey;
+}
+
+
+.header{
+
+    background-image: url("../img/home-header.jpg");
+    background-size:cover;
+    background-position: center;
+    height: 25em;
+    color: white;
+    padding-top: 8em;
+
+}
+
+body a{
+    text-decoration: none;
+}
+
+li{
+    list-style-type: none;
+    display: inline;
+}
+
+.nav{
+    background-color: white;
+}
+
+.nav-pills{
+    text-decoration: none;
+    list-style-type: none;
+    display: inline-flex;
+    padding: 1em;
+}
+
+ul li{
+    padding: 1em;
+}
+
+.btn{
+    background-color: darkgrey;
+    color: white;
+}
+
+.left-column{
+    text-align: left;
+}
+
+.right-column{
+    background-color: cadetblue;
+    
+}
+
+.thumbnail{
+    height: 20em;
+    width: auto;
+}
